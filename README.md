@@ -5,7 +5,9 @@ This is a repository of various resources related to forecasting and modelling s
 
 Explore the folders for tools and documents. To download, click on the "View Raw" or "Raw" button to download the files. We use GitHub so that we keep revision history and enhancements over time. We are also hoping that the community will help us expand our tools by submitting changes. 
 
-Favorites -
+If you want to share these resources, use this link: http://bit.ly/SimResources
+
+*Favorites*
 
 [Single Feature Forecaster: I want to forecast how long a single feature may take](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Spreadsheets/Single%20Feature%20Forecaster.xlsx?raw=true)
 
@@ -16,6 +18,7 @@ Favorites -
 [Throughput Forecasting Tool: I want to forecast multiple team throughput based on historical data](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Spreadsheets/Throughput%20Forecasting%20Tool.xlsx?raw=true)
 
 [Prediction Intervals Exercise](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Exercises/Prediction%20Intervals.docx?raw=true)
+
 [Throughput Forecasting Exercise](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Exercises/Throughput%20Simulation%20Monte%20Carlo%20Game.docx?raw=true)
 
 Please email troy.magennis@focusedobjective.com for more information, ideas or feedback.
