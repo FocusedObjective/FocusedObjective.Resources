@@ -1,12 +1,8 @@
 FocusedObjective.Resources
 ==========================
 
-This is a respository of various resources related to forecasting and modeling software projects. 
+This is a repository of various resources related to forecasting and modelling software projects. 
 
-**Basic Statistics Worksheet.xlsx**
+Explore the folders for tools and documents. To download, click on the "View Raw" or "Raw" button to download the files. We use GitHub so that we keep revision history and enhancements over time. We are also hoping that the community will help us expand our tools by submitting changes.
 
-A general "No Macro" spreadsheet for data analysis and basic Monte Carlo forecasting. Add you data to the Column A of the Data Analysis sheet, and explore.
-
-**Throughput Forecasting Tool.xlsx**
-
-An example "No Macro" forecasting tool for software teams using throughput per week samples.  
+Please email troy.magennis@focusedobjective.com for more information.
