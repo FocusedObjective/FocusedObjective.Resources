@@ -17,6 +17,8 @@ If you want to share these resources, use this link: http://bit.ly/SimResources
 
 [Throughput Forecasting Tool: I want to forecast multiple team throughput based on historical data](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Spreadsheets/Throughput%20Forecasting%20Tool.xlsx?raw=true)
 
+[Capability Matrix: I want to analyze skillset risk of a team](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Spreadsheets/Capability%20Matrix.xlsx?raw=true)
+
 [Prediction Intervals Exercise](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Exercises/Prediction%20Intervals.docx?raw=true)
 
 [Throughput Forecasting Exercise](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Exercises/Throughput%20Simulation%20Monte%20Carlo%20Game.docx?raw=true)
