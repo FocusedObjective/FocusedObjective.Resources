@@ -9,6 +9,8 @@ If you want to share these resources, use this link: http://bit.ly/SimResources
 
 *Favorites*
 
+[Cost of Delay Prioritization Calculator: I want to determine a preferred start order for features by balancing value delivered and duration.](https://github.com/FocusedObjective/FocusedObjective.Resources/raw/master/Spreadsheets/Cost%20of%20Delay%20Prioritization%20Calculator.xlsx)
+
 [Single Feature Forecaster: I want to forecast how long a single feature may take](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Spreadsheets/Single%20Feature%20Forecaster.xlsx?raw=true)
 
 [Multiple Feature Cut Line Forecaster: I want to forecast multiple features at once](https://github.com/FocusedObjective/FocusedObjective.Resources/raw/master/Spreadsheets/Multiple%20Feature%20Cut%20Line%20Forecaster.xlsx)
