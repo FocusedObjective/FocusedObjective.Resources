@@ -9,7 +9,9 @@ If you want to share these resources, use this link: http://bit.ly/SimResources
 
 *Favorites*
 
-[Throughput, Cycle-time and Work in progress tools: I want to take start date and complete date data and see the top 15 charts to understand and improve our process.](https://github.com/FocusedObjective/FocusedObjective.Resources/raw/master/Spreadsheets/Throughput%20and%20Cycle%20Time%20Calculator.xlsx)
+[Throughput, Cycle-time and Work in progress tools: I want to take start date and complete date data and see the top 15 charts to understand and improve our process.](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Spreadsheets/Throughput%20and%20Cycle%20Time%20Calculator%20(5000%20samples).xlsx)
+
+
 
 [Cost of Delay Prioritization Calculator: I want to determine a preferred start order for features by balancing value delivered and duration.](https://github.com/FocusedObjective/FocusedObjective.Resources/raw/master/Spreadsheets/Cost%20of%20Delay%20Prioritization%20Calculator.xlsx)
 
