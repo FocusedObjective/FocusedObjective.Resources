@@ -21,7 +21,7 @@ If you want to share these resources, use this link: http://bit.ly/SimResources
 
 [Basic Statistics Worksheet: I want to do analysis on a set of numbers like historical throughput](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Spreadsheets/Basic%20Statistics%20Worksheet.xlsx?raw=true)
 
-[Throughput Forecasting Tool: I want to forecast multiple team throughput based on historical data](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Spreadsheets/Throughput%20Forecasting%20Tool.xlsx?raw=true)
+[Throughput Forecasting Tool: I want to forecast multiple team throughput based on historical data](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Spreadsheets/Throughput%20Forecaster.xlsx?raw=true)
 
 [Capability Matrix: I want to analyze skillset risk of a team](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Spreadsheets/Capability%20Matrix.xlsx?raw=true)
 
