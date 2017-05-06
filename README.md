@@ -11,22 +11,17 @@ If you want to share these resources, use this link: http://bit.ly/SimResources
 
 [Throughput, Cycle-time and Work in progress tools: I want to take start date and complete date data and see the top 15 charts to understand and improve our process.](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Spreadsheets/Throughput%20and%20Cycle%20Time%20Calculator%20(5000%20samples).xlsx)
 
-
-
-[Cost of Delay Prioritization Calculator: I want to determine a preferred start order for features by balancing value delivered and duration.](https://github.com/FocusedObjective/FocusedObjective.Resources/raw/master/Spreadsheets/Cost%20of%20Delay%20Prioritization%20Calculator.xlsx)
-
-[Single Feature Forecaster / Throughput: I want to forecast how long a single feature may take](https://github.com/FocusedObjective/FocusedObjective.Resources/raw/master/Spreadsheets/Throughput%20Forecaster.xlsx)
+[Throughput or Velocity: I want to forecast how long a single feature may take](https://github.com/FocusedObjective/FocusedObjective.Resources/raw/master/Spreadsheets/Throughput%20Forecaster.xlsx)
 
 [Multiple Feature Cut Line Forecaster: I want to forecast multiple features at once](https://github.com/FocusedObjective/FocusedObjective.Resources/raw/master/Spreadsheets/Multiple%20Feature%20Cut%20Line%20Forecaster.xlsx)
 
+[Story Count Forecaster: I want to estimate how many total stories are in a project by analyzing just a few sample features or epics](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Spreadsheets/Story%20Count%20Forecaster.xlsx?raw=true)
+
 [Basic Statistics Worksheet: I want to do analysis on a set of numbers like historical throughput](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Spreadsheets/Basic%20Statistics%20Worksheet.xlsx?raw=true)
 
-[Throughput Forecasting Tool: I want to forecast multiple team throughput based on historical data](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Spreadsheets/Throughput%20Forecaster.xlsx?raw=true)
+[Capability Matrix: I want to analyze skillset risk of a team](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Spreadsheets/Capability%20Matrix%20v2.xlsx?raw=true)
 
-[Capability Matrix: I want to analyze skillset risk of a team](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Spreadsheets/Capability%20Matrix.xlsx?raw=true)
+[Skill and Dependency Planner: I want to determine where the constraints are in my plans based on over alocating any one skillset or team](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Spreadsheets/Skill%20and%20Dependency%20Planner.xlsx?raw=true)
 
-[Prediction Intervals Exercise](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Exercises/Prediction%20Intervals.docx?raw=true)
-
-[Throughput Forecasting Exercise](https://github.com/FocusedObjective/FocusedObjective.Resources/blob/master/Exercises/Throughput%20Simulation%20Monte%20Carlo%20Game.docx?raw=true)
 
 Please email troy.magennis@focusedobjective.com for more information, ideas or feedback.
